@@ -5,4 +5,5 @@ This is about the introduction of the Chinese Zodiac. There are 12 traditional r
 
 # Credit
 This is a work by team of 3.
+
 I am the game designer and programmer.
